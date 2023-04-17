@@ -1,0 +1,54 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(190, 164, 142);
+    color: rgb(255, 255, 255);font color
+    background-image:url("https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830025.jpg?w=2000");
+    
+}
+img{
+    display: block;
+    border: 2px solid white;
+    padding: 5px;
+    /*center a picture*/
+    margin: auto;
+    
+}
+a{
+    color:rgb(255, 255, 255)
+}
+a:visited{
+    color:rgb(227, 215, 198)
+}
+li{
+    font-style: italic;
+}
+
+
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+
+
+.footer{
+    position: fixed;
+    background-color: rgb(24, 24, 24);
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: block;
+    text-align: center;
+}
+
+.gallery img{
+    display: inline;
+    width: 40%;
+}
+
+
+
+
+
+
+
+
